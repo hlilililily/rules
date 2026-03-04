@@ -1,2 +1,1 @@
-# rules
-# rules
+# rules shared between home and com.
